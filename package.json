@@ -1,0 +1,28 @@
+{
+  "name": "nodegulplivereload",
+  "version": "1.0.0",
+  "description": "Project NodeJS with Gulp Nodemon Browser-Sync Sass Js Live Reload",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devnido/NodeGulpLiveReload.git"
+  },
+  "keywords": [
+    "nodejs",
+    "gulp",
+    "nodemon",
+    "livereload",
+    "sass",
+    "js",
+    "javascript"
+  ],
+  "author": "Luis Nido",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devnido/NodeGulpLiveReload/issues"
+  },
+  "homepage": "https://github.com/devnido/NodeGulpLiveReload#readme"
+}
